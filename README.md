@@ -30,11 +30,7 @@ Turning messy data into clear decisions. I build reliable ML systems end‑to‑
 `Python` · `Pandas` · `NumPy` · `scikit‑learn` · `PyTorch / TensorFlow` · `XGBoost` · `LightGBM` · `SQL` · `Airflow` · `Docker` · `MLflow` · `FastAPI` · `Plotly` · `Dash` · `GitHub Actions`
 
 
-### 🧩 Featured projects (pin these)
-- **ETL & Analytics:** Real‑World Data Cleaning Pipeline → _reproducible data quality checks_
-- **ML (Classic):** Predictive Maintenance on vibration signals → _PCA, health index, interpretable models_
-- **Time Series:** Electricity Demand Forecast → _Prophet + LSTM hybrid_
-- **MLOps:** End‑to‑End ML with MLflow & Docker → _tracking, packaging, CI_
+### 🧩 Featured projects
 
 
 > 👇 Scroll to repos for more. Each project ships with a short case study.
