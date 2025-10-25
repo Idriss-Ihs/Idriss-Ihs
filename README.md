@@ -43,15 +43,10 @@ Turning messy data into clear decisions. I build reliable ML systems end‑to‑
 ---
 
 
-### 📈 Stats (optional flair)
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=idris-ihs&show_icons=true" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idris-ihs&layout=compact" height="140"/>
-</p>
 
 
 ---
 
 
 ### 🤝 Collaborations
-I’m open to collaborating on impactful data products. If your problem touches **reliability, forecasting, or ML systems**, let’s talk.
+I’m open to collaborating on impactful data products. let’s talk.
