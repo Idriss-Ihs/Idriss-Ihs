@@ -1,48 +1,31 @@
-<h1 align="center">Hi, I’m Idris — Data Scientist (ML & MLOps)</h1>
+# Idris Ihs — Data Scientist
 
+Curious by nature and driven by the challenge of transforming ideas into measurable results.  
+I enjoy working at the intersection of **data, research, and applied innovation** — where theory meets implementation and problems are solved through experimentation.
 
-<p align="center">
-Turning messy data into clear decisions. I build reliable ML systems end‑to‑end — from ETL and analytics to deployment.
-</p>
+My work spans the full data lifecycle: from **data engineering and modeling** to **analysis, visualization, and deployment**.  
+I’m particularly interested in how data science can be **applied across domains** — discovering patterns, building predictive systems, and developing tools that bring insight and precision to complex questions.
 
-
-<p align="center">
-<a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-blue"></a>
-<a href="https://github.com/idris-ihs?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Explore-informational"></a>
-</p>
-
+Beyond the code, I value clarity, reproducibility, and well-structured thinking — principles that make collaboration and progress sustainable over time.
 
 ---
 
-
-### 🔭 What I’m building (2025)
-- **Data Wrangling & ETL:** reproducible pipelines on messy, real‑world data
-- **Analytics & Storytelling:** insights dashboards that drive decisions
-- **Machine Learning (classic):** feature engineering + interpretable models
-- **Time Series:** forecasting with statistical + deep models
-- **NLP:** from TF‑IDF to transformers
-- **Deep Learning (CV):** transfer learning, Grad‑CAM
-- **Generative AI:** LLM apps + evaluation
-- **MLOps:** MLflow, Docker, CI/CD, testing
-
-
-### 🧰 Toolbox
-`Python` · `Pandas` · `NumPy` · `scikit‑learn` · `PyTorch / TensorFlow` · `XGBoost` · `LightGBM` · `SQL` · `Airflow` · `Docker` · `MLflow` · `FastAPI` · `Plotly` · `Dash` · `GitHub Actions`
-
-
-### 🧩 Featured projects
-
-
-> 👇 Scroll to repos for more. Each project ships with a short case study.
-
+### Focus Areas
+- Data Science & Machine Learning  
+- Statistical Modeling & Time Series Analysis  
+- MLOps & Reproducible Research  
+- Geospatial & Environmental Data Analytics  
+- Automation, Monitoring & Decision Support Systems  
+- Scalable Data Processing & Cloud Integration  
 
 ---
 
-
-
+### Tags
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `TensorFlow`  
+`Data Engineering` `Machine Learning` `MLOps` `Statistics` `Modeling`  
+`ETL` `SQL` `Visualization` `Matplotlib` `Plotly` `Streamlit`  
+`Geospatial` `Data Analysis` `Open Source` `Research & Development`
 
 ---
 
-
-### 🤝 Collaborations
-I’m open to collaborating on impactful data products. let’s talk.
+Always exploring new ways to connect data-driven insight with real-world impact.
